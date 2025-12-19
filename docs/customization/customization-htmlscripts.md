@@ -175,7 +175,7 @@ For more information about the widget, please visit the [project's GitHub page](
 ]
 ````
 
-- Add a translated title for the widget block in your custom translations file. Example in `customization/translations/fr.json`:
+* Add a translated title for the widget block in your custom translations file. Example in `customization/translations/fr.json`:
 
 ```json
 "details": {
