@@ -150,7 +150,7 @@ Here is some examples but there is a lot more that can be done, your imagination
 
 The BAM widget is an open-source biodiversity widget developed by French National Parks. It can be integrated into Geotrek-rando detail pages to display biodiversity observations around a trek or other touristic content.
 
-When a trek detail page is displayed, the BAM widget retrieves the trek geometry from the Geotrek-admin API as GeoJSON. It then creates a buffer around this geometry (the buffer size in meters is defined in the widget parameters, 100 m in the example below) and queries a biodiversity data source to retrieve observations within this area. By default, the data source is GBIF, but it can be replaced by Wikidata or a GeoNature instance to generate a list of observed species.
+When a trek detail page is displayed, the BAM widget retrieves the trek geometry from the Geotrek-admin API as GeoJSON. It then creates a buffer around this geometry (the buffer size in meters is defined in the widget parameters, 100 meters in the example below) and queries a biodiversity data source to retrieve observations within this area. By default, the data source is GBIF, but it can be replaced by a GeoNature instance to generate a list of observed species.
 
 For more information about the widget, please visit the [project's GitHub page](https://github.com/PnX-SI/BAM-widget/).
 
