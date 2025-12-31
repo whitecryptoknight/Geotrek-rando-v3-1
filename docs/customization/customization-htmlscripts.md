@@ -179,7 +179,7 @@ For more information about the widget, please visit the [project's GitHub page](
 
 ```json
 "details": {
-  "BAMwidget": "Biodiversité autour de cet itinéraire"
+  "BAMwidget": "Biodiversité observée autour de cet itinéraire"
 }
 ```
 
