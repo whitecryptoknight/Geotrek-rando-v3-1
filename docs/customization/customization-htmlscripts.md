@@ -161,7 +161,7 @@ For more information about the widget, please visit the [project's GitHub page](
 - In the iframe configuration, replace  
   `https://geotrekdemo.ecrins-parcnational.fr`  
   with the URL of your own Geotrek-admin instance.
-- Adjust widget parameters if needed (buffer size, filters visibility, display mode, number of species per line, or data source). Refer to the [BAM documentation](https://pnx-si.github.io/BAM-widget/docs/#/get-started) and [configurator](https://pnx-si.github.io/BAM-widget/#/config?filtersOnList=true&buffer=500&connector=GBIF&nbTaxonPerLine=2&showFilters=false&mapEditable=true&lang=fr&mode=detailedList&widgetType=list&switchModeAvailable=false&primaryColor=aaa&GBIF_ENDPOINT=https://api.gbif.org/v1&LIMIT=300&NB_PAGES=10&soundSource=wikidata&imageSource=wikidata) for the full list of available parameters.
+- Adjust widget parameters if needed (buffer size, filters visibility, display mode, number of species per line, or data source). Refer to the [BAM documentation](https://pnx-si.github.io/BAM-widget/docs/#/get-started) and [configurator](https://pnx-si.github.io/BAM-widget/#/config) for the full list of available parameters.
 - Declare the widget and its position in the `customization/config/details.json` file. Example:
 
 ```json
