@@ -182,7 +182,7 @@ For more information about the widget, please visit the [project's GitHub page](
 }
 ```
 
-###### Example iframe configuration
+###### Widget template example
 
 ```html
 <iframe
