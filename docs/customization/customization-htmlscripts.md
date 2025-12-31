@@ -156,7 +156,7 @@ For more information about the widget, please visit the [project's GitHub page](
 
 ###### Integration steps
 
-- Copy the widget template into your Geotrek-rando customization folder, for example:
+- Copy the widget template below into your Geotrek-rando customization folder, for example:
   `customization/html/details/BAMwidget.html`
 - In the iframe configuration, replace  
   `https://geotrekdemo.ecrins-parcnational.fr`  
