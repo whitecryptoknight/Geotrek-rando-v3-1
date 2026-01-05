@@ -189,7 +189,8 @@ For more information about the widget, please visit the [project's GitHub page](
 <iframe
   src="https://pnx-si.github.io/BAM-widget/#/?showFilters=false&sourceGeometry=https://geotrekdemo.ecrins-parcnational.fr/api/v2/trek/{{ id }}/?fields=geometry%26format=geojson&buffer=100&connector=gbif&nbTaxonPerLine=4&widgetType=list"
   style="height: 80vh"
-  allow="geolocation">
+  allow="geolocation"
+  title="Biodiversité autour de cette randonnée">
 </iframe>
 ```
 
