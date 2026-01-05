@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.26.0+dev (XXXX-XX-XX)
+
+**Documentation**
+
+- Add BAM widget examples to display biodiversity around the trek (#1427)
+
 ## 3.26.0 (2025-12-11)
 
 **✨ Improvements**

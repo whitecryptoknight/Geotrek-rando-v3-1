@@ -146,6 +146,54 @@ Here is some examples but there is a lot more that can be done, your imagination
 
 **Configuration** [Check this comment](https://github.com/GeotrekCE/Geotrek-rando-v3/issues/914#issuecomment-1779758757)
 
+##### **BAM widget**
+
+The BAM widget is an open-source biodiversity widget developed by French National Parks. It can be integrated into Geotrek-rando detail pages to display biodiversity observations around a trek or other touristic content.
+
+When a trek detail page is displayed, the BAM widget retrieves the trek geometry from the Geotrek-admin API as GeoJSON. It then creates a buffer around this geometry (the buffer size in meters is defined in the widget parameters, 100 meters in the example below) and queries a biodiversity data source to retrieve observations within this area. By default, the data source is GBIF, but it can be replaced by a GeoNature instance to generate a list of observed species.
+
+For more information about the widget, please visit the [project's GitHub page](https://github.com/PnX-SI/BAM-widget/).
+
+###### Integration steps
+
+- Copy the widget template below into your Geotrek-rando customization folder, for example:
+  `customization/html/details/BAMwidget.html`
+- In the iframe configuration, replace  
+  `https://geotrekdemo.ecrins-parcnational.fr`  
+  with the URL of your own Geotrek-admin instance.
+- Adjust widget parameters if needed (buffer size, filters visibility, display mode, number of species per line, or data source). Refer to the [BAM documentation](https://pnx-si.github.io/BAM-widget/docs/#/get-started) and [configurator](https://pnx-si.github.io/BAM-widget/#/config) for the full list of available parameters.
+- Declare the widget and its position in the `customization/config/details.json` file. Example:
+
+```json
+"trek": [
+  {
+    "name": "BAMwidget",
+    "display": true,
+    "anchor": false,
+    "order": 60
+  }
+]
+```
+
+* Add a translated title for the widget block in your custom translations file. Example in `customization/translations/fr.json`:
+
+```json
+"details": {
+  "BAMwidget": "Biodiversité observée autour de cet itinéraire"
+}
+```
+
+###### Widget template example
+
+```html
+<iframe
+  src="https://pnx-si.github.io/BAM-widget/#/?showFilters=false&sourceGeometry=https://geotrekdemo.ecrins-parcnational.fr/api/v2/trek/{{ id }}/?fields=geometry%26format=geojson&buffer=100&connector=gbif&nbTaxonPerLine=4&widgetType=list"
+  style="height: 80vh"
+  allow="geolocation"
+  title="Biodiversité autour de cette randonnée">
+</iframe>
+```
+
 ##### **Sustainable transport route planner**
 
 Multiple widgets can be added to help citizens plan their trip using sustainable transports. Here is some examples but we advise you to look for local solutions, there is a good chance your country / state / city may have an existing widget that you can integrate on your website.
