@@ -47,24 +47,11 @@ These instances illustrate the wide range of possible customizations, particular
 
 ### Some examples
 
-* Alpes Rando
-  [https://alpesrando.net/](https://alpesrando.net/)
-
-* Explore Doubs
-  [https://explore.doubs.fr/](https://explore.doubs.fr/)
-
-* Rando Gard
-  [https://rando.gard.fr/](https://rando.gard.fr/)
-
-* Jura Outdoor
-  [https://www.jura-outdoor.com/](https://www.jura-outdoor.com/)
-
-* Escapade 62
-  [https://www.escapade62.fr/](https://www.escapade62.fr/)
-
-* Chemins des Parcs
-  [https://www.cheminsdesparcs.fr/](https://www.cheminsdesparcs.fr/)
-
-* Destination Parc national des Écrins
-  [https://destination.ecrins-parcnational.fr](https://destination.ecrins-parcnational.fr)
+* [Alpes Rando](https://alpesrando.net/)
+* [Explore Doubs](https://explore.doubs.fr/)
+* [Rando Gard](https://rando.gard.fr/)
+* [Jura Outdoor](https://www.jura-outdoor.com/)
+* [Escapade 62](https://www.escapade62.fr/)
+* [Chemins des Parcs](https://www.cheminsdesparcs.fr/)
+* [Destination Parc national des Écrins](https://destination.ecrins-parcnational.fr)
 
