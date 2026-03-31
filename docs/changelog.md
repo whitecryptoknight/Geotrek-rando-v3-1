@@ -1,5 +1,12 @@
 # Changelog
 
+
+## 3.26.1+dev (XXXX-XX-XX)
+
+**Documentation**
+
+- Add Geotrek-rando examples in presentation and homepage doc sections (#1432)
+
 ## 3.26.1 (2025-02-20)
 
 **Documentation**
