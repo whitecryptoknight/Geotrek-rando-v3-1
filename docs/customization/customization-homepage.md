@@ -39,8 +39,6 @@ Here is a list of elements that can be customized on the homepage:
 
 ![image](../img/pageaccueil.jpg)
 
-Here is your translation, preserving the structure and content:
-
 ## Examples of Geotrek-rando applications
 
 These instances illustrate the wide range of possible customizations, particularly regarding homepages, visual identities, and content highlighting strategies.
