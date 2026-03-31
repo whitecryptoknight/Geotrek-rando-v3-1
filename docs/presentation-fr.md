@@ -244,7 +244,6 @@ Un rendu côté serveur (Server Side Rendering / SSR) des pages est réalisé po
 Une liste de toutes les pages du portail est générée automatiquement pour faciliter leur indexation dans les moteurs de recherche. Elle est disponible à l'adresse `URL-DU-PORTAIL/sitemap.xml`.
 
 Il est aussi possible de définir des règles de redirection, notamment pour optimiser le passage de Geotrek-rando v2 à Geotrek-rando v3.
-peux tu me traduire ces éléments en gardant la structure et le contenu en anglais ?
 
 ## Exemples de Geotrek-rando
 
