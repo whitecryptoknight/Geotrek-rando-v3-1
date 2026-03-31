@@ -39,3 +39,32 @@ Here is a list of elements that can be customized on the homepage:
 
 ![image](../img/pageaccueil.jpg)
 
+## Exemples d'applications Geotrek-rando
+
+De nombreux territoires utilisent **Geotrek-rando** pour valoriser leurs offres de randonnée et de pleine nature.
+
+Ces réalisations illustrent la diversité des personnalisations possibles, notamment sur les pages d’accueil, les chartes graphiques et les stratégies de mise en avant des contenus.
+
+### Sites de référence
+
+* Alpes Rando
+  [https://alpesrando.net/](https://alpesrando.net/)
+
+* Explore Doubs
+  [https://explore.doubs.fr/](https://explore.doubs.fr/)
+
+* Rando Gard
+  [https://rando.gard.fr/](https://rando.gard.fr/)
+
+* Jura Outdoor
+  [https://www.jura-outdoor.com/](https://www.jura-outdoor.com/)
+
+* Escapade 62
+  [https://www.escapade62.fr/](https://www.escapade62.fr/)
+
+* Chemins des Parcs
+  [https://www.cheminsdesparcs.fr/](https://www.cheminsdesparcs.fr/)
+
+### Liste complète
+
+Il est possible de consulter une liste plus exhaustive des Geotrek-rando connus à ce jour en se rendant sur [cette page GitHub](https://github.com/GeotrekCE/Geotrek-website/wiki/Liste-des-Geotrek-connus).
