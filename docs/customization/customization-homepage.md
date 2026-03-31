@@ -39,13 +39,13 @@ Here is a list of elements that can be customized on the homepage:
 
 ![image](../img/pageaccueil.jpg)
 
-## Exemples d'applications Geotrek-rando
+Here is your translation, preserving the structure and content:
 
-De nombreux territoires utilisent **Geotrek-rando** pour valoriser leurs offres de randonnée et de pleine nature.
+## Examples of Geotrek-rando applications
 
-Ces réalisations illustrent la diversité des personnalisations possibles, notamment sur les pages d’accueil, les chartes graphiques et les stratégies de mise en avant des contenus.
+These instances illustrate the wide range of possible customizations, particularly regarding homepages, visual identities, and content highlighting strategies.
 
-### Sites de référence
+### Some examples
 
 * Alpes Rando
   [https://alpesrando.net/](https://alpesrando.net/)
@@ -65,6 +65,6 @@ Ces réalisations illustrent la diversité des personnalisations possibles, nota
 * Chemins des Parcs
   [https://www.cheminsdesparcs.fr/](https://www.cheminsdesparcs.fr/)
 
-### Liste complète
+* Destination Parc national des Écrins
+  [https://destination.ecrins-parcnational.fr](https://destination.ecrins-parcnational.fr)
 
-Il est possible de consulter une liste plus exhaustive des Geotrek-rando connus à ce jour en se rendant sur [cette page GitHub](https://github.com/GeotrekCE/Geotrek-website/wiki/Liste-des-Geotrek-connus).

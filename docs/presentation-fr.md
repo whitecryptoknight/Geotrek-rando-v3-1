@@ -244,3 +244,35 @@ Un rendu côté serveur (Server Side Rendering / SSR) des pages est réalisé po
 Une liste de toutes les pages du portail est générée automatiquement pour faciliter leur indexation dans les moteurs de recherche. Elle est disponible à l'adresse `URL-DU-PORTAIL/sitemap.xml`.
 
 Il est aussi possible de définir des règles de redirection, notamment pour optimiser le passage de Geotrek-rando v2 à Geotrek-rando v3.
+peux tu me traduire ces éléments en gardant la structure et le contenu en anglais ?
+
+## Exemples d'applications Geotrek-rando
+
+De nombreux territoires utilisent **Geotrek-rando** pour valoriser leurs offres de randonnée et de pleine nature.
+
+### Quelques exemples
+
+* Alpes Rando
+  [https://alpesrando.net/](https://alpesrando.net/)
+
+* Explore Doubs
+  [https://explore.doubs.fr/](https://explore.doubs.fr/)
+
+* Rando Gard
+  [https://rando.gard.fr/](https://rando.gard.fr/)
+
+* Jura Outdoor
+  [https://www.jura-outdoor.com/](https://www.jura-outdoor.com/)
+
+* Escapade 62
+  [https://www.escapade62.fr/](https://www.escapade62.fr/)
+
+* Chemins des Parcs
+  [https://www.cheminsdesparcs.fr/](https://www.cheminsdesparcs.fr/)
+
+* Destination Parc national des Ecrins
+  [https://destination.ecrins-parcnational.fr](https://destination.ecrins-parcnational.fr)
+
+### Liste complète
+
+Il est possible de consulter une liste plus exhaustive des Geotrek-rando connus à ce jour en se rendant sur [cette page GitHub](https://github.com/GeotrekCE/Geotrek-website/wiki/Liste-des-Geotrek-connus).
