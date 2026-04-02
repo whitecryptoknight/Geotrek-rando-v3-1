@@ -39,3 +39,17 @@ Here is a list of elements that can be customized on the homepage:
 
 ![image](../img/pageaccueil.jpg)
 
+## Examples of Geotrek-rando applications
+
+These instances illustrate the wide range of possible customizations, particularly regarding homepages, visual identities, and content highlighting strategies.
+
+### Some examples
+
+* [Alpes Rando](https://alpesrando.net/)
+* [Explore Doubs](https://explore.doubs.fr/)
+* [Rando Gard](https://rando.gard.fr/)
+* [Jura Outdoor](https://www.jura-outdoor.com/)
+* [Escapade 62](https://www.escapade62.fr/)
+* [Chemins des Parcs](https://www.cheminsdesparcs.fr/)
+* [Destination Parc national des Écrins](https://destination.ecrins-parcnational.fr)
+
