@@ -1,0 +1,10 @@
+services:
+  rando:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - NODE_ENV=production
+      - NEXT_PUBLIC_API_URL=https://geo.dev.digitalbitz.cc/api/v2/
+    ports:
+      - "3000:3000"

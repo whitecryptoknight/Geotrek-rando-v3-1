@@ -1,0 +1,15 @@
+services:
+  rando:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      - NODE_ENV=production
+      - NEXT_PUBLIC_API_URL=https://geo.dev.digitalbitz.cc/api/v2/
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.rando.rule=Host(`path.dev.digitalbitz.cc`)"
+      - "traefik.http.routers.rando.entrypoints=websecure"
+      - "traefik.http.routers.rando.tls.certresolver=letsencrypt"
+      - "traefik.http.services.rando.loadbalancer.server.port=3000"
